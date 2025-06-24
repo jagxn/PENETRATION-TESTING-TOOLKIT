@@ -18,3 +18,4 @@ This Python script is a penetration testing tool that combines port scanning and
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/ca0d502c-da13-4071-a725-0b74f9856115)
